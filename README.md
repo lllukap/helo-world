@@ -1,7 +1,5 @@
-# helo-world
+[Project description.docx](https://github.com/lllukap/helo-world/files/9633194/Project.description.docx)
 
-
-<!-- 
 Project name:
 Chocolate Wanted: getting what at NYUAD
 
@@ -18,5 +16,5 @@ Overall, I consider my project to be successful. As someone who has not coded pr
 
 I believe I was able to design the website according to my goal of sparking viewer’s interest first and stay consistent. Personally, I really liked the “Claim your Movie Ticket” section and the button; I feel like it reflects my primary aim and is a nice conclusion of the main page. Additionally, I enjoyed the animated part of the website, such as the lighting-up of the boxes, buttons, and the “lights-off” function surrounding the video.
 
-Nevertheless, I think that the coding part could have been a little cleaner and clearer. It is especially vivid in the positioning of different elements, as I often ended up using measuring in pixels rather than choosing alternative methods that would allow me to better center the different boxes and make them stay relatively the same on other types of screens. Also, the slideshow element does not fully function as I intended it too, the viewer must press on the dots for the slides to appear. If I was to develop this website further, I would invest more time into correct positioning of the elements, solve the slideshow issue and add a footer with contact information, since, looking back, I feel like it is one of the main features that is missing.  -->
+Nevertheless, I think that the coding part could have been a little cleaner and clearer. It is especially vivid in the positioning of different elements, as I often ended up using measuring in pixels rather than choosing alternative methods that would allow me to better center the different boxes and make them stay relatively the same on other types of screens. Also, the slideshow element does not fully function as I intended it too, the viewer must press on the dots for the slides to appear. If I was to develop this website further, I would invest more time into correct positioning of the elements, solve the slideshow issue and add a footer with contact information, since, looking back, I feel like it is one of the main features that is missing.
 
