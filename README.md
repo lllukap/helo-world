@@ -1,8 +1,8 @@
 [Project description.docx](https://github.com/lllukap/helo-world/files/9633194/Project.description.docx)
 
 Project name:
-Chocolate Wanted: getting what at NYUAD
-
+<!-- Chocolate Wanted: getting what at NYUAD
+ -->
 Project Description:
 The aim of the project was to build a website that would host the 30FF video and enhance the experience of watching the video. It was intended that the website would contain additional information about the video, such as details about the actors, director and main message, so that the viewer could engage deeper with the main element – the video.
 
